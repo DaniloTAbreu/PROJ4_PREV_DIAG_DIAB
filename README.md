@@ -34,7 +34,7 @@ Este conjunto de dados é amplamente utilizado para desenvolvimento e avaliaçã
 - Random Forest
 - SVM
 - Redes Neurais
-- Gradient Boosting Machines (por exemplo, XGBoost, LightGBM):
+- Gradient Boosting Machines (XGBoost, LightGBM):
 - Otimização do modelo
 
 ## Ferramenta utilizada
